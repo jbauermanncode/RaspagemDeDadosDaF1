@@ -1,0 +1,10 @@
+{
+    "cSpell.words": [
+        "piloto",
+        "temporada"
+    ],
+    "python.analysis.extraPaths": [
+        "./webscraping",
+        "./pilotos"
+    ]
+}
